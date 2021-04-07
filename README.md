@@ -1,3 +1,5 @@
+<img src="/Assets/C51D9AF1A069-1.jpeg" width="128">
+
 # PlurEmAll
 
 Plural forms string manipulation utility for making up countable terms
